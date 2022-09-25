@@ -14,6 +14,3 @@ The Azure Migration Starter Kit is a collection of SAMPLE migration artifacts, p
      * On the top-right, click on the engine (Configure team settings). 
      * Validate that Epics, Features and Stories are selected.  If any are missing, select them, then click Save and Close.
 
-Now change to view the Epics then you have all set, containing all Epics, User Stories and Tasks.
-backlog-setting-2
-
